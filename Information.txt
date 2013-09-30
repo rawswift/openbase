@@ -1,0 +1,9 @@
+Application:	OpenBase
+Description:	Database viewer
+Language: 	Visual Basic 6
+RDMS:		Advantage OLE DB
+		MS OLE DB for ODBC
+		MS Jet 4.0 OLE DB
+		MySQL ODBC driver
+Libraries:	None
+Date:		January 2004
